@@ -18,6 +18,8 @@ describe('BreakEvenGraph', () => {
     />)
   });
 
+  // new comment
+
   test('renders breakeven graph', () => {
     screen.getByTestId('graph')
   })
